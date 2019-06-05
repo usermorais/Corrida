@@ -4,6 +4,11 @@ Resultados para corrida com o ranking dos Pilotos
 Crie um arquivo SUAS-INSTRUÇÕES.txt para adicionar algum comentário/observação que achar importante;
 
 Comentarei o projeto no README também :).
+
+Os códigos em SQL para gerar os resultados estão nos arquivos:
+- "Script Pilotos.sql" ou
+- "Script Pilotos.txt"
+
 Segue passos importantes para entender a linha de raciocínio utilizada na solução.
 
 1 - Criamos uma tabela para receber os dados com o mesmo número de campos que o arquivo de log oferece.
